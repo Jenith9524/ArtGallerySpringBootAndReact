@@ -765,9 +765,8 @@ OAuth 2.0
 
 ### 🔗 Links
 
-- **GitHub:** https://github.com/udaykallam
-- **Repository:** https://github.com/udaykallam/ArtGallerySpringBootAndReact
-
+- **GitHub:** https://github.com/Jenith9524
+- **Repository:** https://github.com/Jenith9524/ArtGallerySpringBootAndReact
 ---
 
 # 📜 License
